@@ -1,0 +1,1 @@
+<li><a  class=" animated an1" href="[field:arcurl/]" title="[field:title/]"><img src="[field:litpic/]" alt="[field:title/]" width="218" height="163" /><span>[field:title/]</span></a></li>
